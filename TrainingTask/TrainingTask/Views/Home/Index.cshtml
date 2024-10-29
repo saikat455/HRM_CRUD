@@ -1,0 +1,83 @@
+﻿@model IEnumerable<Trainingtask.Models.Entity.Department>
+
+<div class="container my-4">
+    <div class="text-center mb-4">
+        <h1 class="fw-bold text-gradient">Department List</h1>
+    </div>
+
+    <div class="text-end mb-3">
+        <a asp-action="DepartmentSave" asp-controller="Home" class="btn btn-success shadow-sm d-flex align-items-center">
+            <i class="bi bi-plus me-2"></i> Add New Department
+        </a>
+    </div>
+
+    <div class="card shadow-sm">
+        <div class="card-body p-0">
+            <table class="table table-hover mb-0">
+                <thead class="table-light">
+                    <tr>
+                        <th class="text-uppercase text-secondary small">Department Name</th>
+                        <th class="text-uppercase text-secondary small">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (!Model.Any())
+                    {
+                        <tr>
+                            <td colspan="2" class="text-center text-muted p-4">
+                                No departments available. Add a new department to get started!
+                            </td>
+                        </tr>
+                    }
+                    else
+                    {
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td class="align-middle">@item.Name</td>
+                                <td class="align-middle">
+                                    <a asp-action="DepartmentSave" asp-route-id="@item.Id"
+                                       class="btn btn-sm btn-outline-warning me-2 d-inline-flex align-items-center">
+                                        <i class="bi bi-pencil me-1"></i> Edit
+                                    </a>
+                                    <a asp-action="DepartmentDelete" asp-route-id="@item.Id"
+                                       class="btn btn-sm btn-outline-danger d-inline-flex align-items-center">
+                                        <i class="bi bi-trash me-1"></i> Delete
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<style>
+    .text-gradient {
+        font-size: 2rem;
+        font-weight: bold;
+        background: linear-gradient(to right, #28a745, #43c37b);
+        -webkit-background-clip: text;
+        color: transparent;
+    }
+    h1 {
+        font-size: 2rem;
+        color: #0d6efd;
+    }
+    .table-hover tbody tr:hover {
+        background-color: #f8f9fa;
+    }
+    .btn-outline-warning, .btn-outline-danger {
+        transition: background-color 0.2s ease;
+    }
+    .btn-outline-warning:hover {
+        background-color: #ffc107;
+        color: #fff;
+    }
+    .btn-outline-danger:hover {
+        background-color: #dc3545;
+        color: #fff;
+    }
+</style>

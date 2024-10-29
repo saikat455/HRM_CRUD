@@ -1,0 +1,53 @@
+﻿@model Employee
+@{
+    ViewData["Title"] = "Employee Save";
+}
+
+<div class="container mt-5">
+    <div class="text-center mb-4">
+        <h2 class="fw-bold text-primary">@ViewData["Title"]</h2>
+    </div>
+
+    <form asp-action="EmployeeSave" method="post" class="bg-light p-4 rounded shadow-sm">
+        <input asp-for="Id" type="hidden" />
+
+        <div class="form-group mb-3">
+            <label asp-for="Name" class="form-label">Employee Name</label>
+            <input asp-for="Name" class="form-control" type="text" placeholder="Enter employee name" required />
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Address" class="form-label">Address</label>
+            <input asp-for="Address" class="form-control" type="text" placeholder="Enter address" required />
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Phone" class="form-label">Phone</label>
+            <input asp-for="Phone" class="form-control" type="text" placeholder="Enter phone number" required />
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="City" class="form-label">City</label>
+            <input asp-for="City" class="form-control" type="text" placeholder="Enter city" required />
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="DeptId" class="form-label">Department</label>
+            <select asp-for="DeptId" asp-items="@(new SelectList(ViewBag.Departments, "Id", "Name"))" class="form-control" required>
+                <option value="">Select a Department</option>
+            </select>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="DesigId" class="form-label">Designation</label>
+            <select asp-for="DesigId" asp-items="@(new SelectList(ViewBag.Designations, "Id", "Name"))" class="form-control" required>
+                <option value="">Select a Designation</option>
+            </select>
+        </div>
+
+        <div class="text-center">
+            <button type="submit" class="btn btn-success">Save Employee</button>
+            <a asp-action="Index" asp-controller="Employee" class="btn btn-secondary ms-2">Cancel</a>
+        </div>
+    </form>
+</div>
