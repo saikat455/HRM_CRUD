@@ -1,1 +1,60 @@
-﻿
+﻿@model Trainingtask.Models.DTO.ShiftDTO
+
+<div class="container my-4">
+    <div class="text-center mb-4">
+        <h1 class="fw-bold text-gradient">@((Model.ShiftId == Guid.Empty) ? "Add New Shift" : "Edit Shift")</h1>
+    </div>
+
+    <form asp-action="ShiftSave" method="post">
+        <div class="mb-3">
+            <label asp-for="ShiftName" class="form-label">Shift Name</label>
+            <input asp-for="ShiftName" class="form-control" required />
+            <span asp-validation-for="ShiftName" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="In" class="form-label">In Time</label>
+            <input asp-for="In" class="form-control" type="time" required />
+            <span asp-validation-for="In" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Out" class="form-label">Out Time</label>
+            <input asp-for="Out" class="form-control" type="time" required />
+            <span asp-validation-for="Out" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Late" class="form-label">Late Time</label>
+            <input asp-for="Late" class="form-control" type="time" />
+            <span asp-validation-for="Late" class="text-danger"></span>
+        </div>
+
+        <!-- Company Dropdown -->
+        <div class="mb-3">
+            <label asp-for="ComId" class="form-label">Company</label>
+            <select asp-for="ComId" asp-items="ViewBag.Companies" class="form-control">
+                <option value="">Select a Company</option>
+            </select>
+
+
+            <span asp-validation-for="ComId" class="text-danger"></span>
+        </div>
+
+        <input type="hidden" asp-for="ShiftId" />
+
+        <div class="text-center">
+            <button type="submit" class="btn btn-primary">
+                @((Model?.ShiftId == null || Model.ShiftId == Guid.Empty) ? "Create Shift" : "Update Shift")
+            </button>
+            <a asp-action="Privacyy" class="btn btn-secondary">Cancel</a>
+        </div>
+    </form>
+</div>
+
+<style>
+    .text-gradient {
+        font-size: 2rem;
+        font-weight: bold;
+        background: linear-gradient(to right, #28a745, #43c37b);
+        -webkit-background-clip: text;
+        color: transparent;
+    }
+</style>

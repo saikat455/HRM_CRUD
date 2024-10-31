@@ -13,6 +13,7 @@ namespace Training.DataAccess.Repositories
         IDesignationRepo DesignationRepo { get; }
         IEmployeeRepo EmployeeRepo { get; }
         ICompanyRepo CompanyRepo { get; }
+        IShiftRepo ShiftRepo { get; }
        
     }
 }

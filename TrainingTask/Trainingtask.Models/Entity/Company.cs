@@ -11,7 +11,8 @@ namespace Trainingtask.Models.Entity
         public decimal Hrent { get; set; }
         public decimal Medical { get; set; }
         public bool IsInactive { get; set; }
-        public string Shifts { get; set; } = string.Empty;
+
+        public List<Shift>? Shifts { get; set; }
 
         public decimal CalculateTotalSalary(decimal baseSalary)
         {

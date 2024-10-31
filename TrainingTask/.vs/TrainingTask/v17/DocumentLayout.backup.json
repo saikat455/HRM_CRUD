@@ -3,48 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\one\\Downloads\\TrainingTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask.models\\entity\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|solutionrelative:trainingtask.models\\entity\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask.models\\dto\\shiftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|solutionrelative:trainingtask.models\\dto\\shiftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\shift\\shiftsave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\shift\\shiftsave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\shift\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\shift\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\controllers\\shiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\controllers\\shiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\trainingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\trainingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\interface\\ishiftrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,104 +15,68 @@
       "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\implement\\shiftrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\interface\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\interface\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask.models\\dto\\shiftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|solutionrelative:trainingtask.models\\dto\\shiftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\implement\\companyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\implement\\companyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask.models\\entity\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|solutionrelative:trainingtask.models\\entity\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\implement\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\implement\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\trainingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\trainingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\implement\\designationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\implement\\designationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\implement\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\implement\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\interface\\icompanyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\interface\\icompanyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\shift\\shiftsave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\shift\\shiftsave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask.models\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|solutionrelative:trainingtask.models\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\employee\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\employee\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask.models\\dto\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|solutionrelative:trainingtask.models\\dto\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask.models\\entity\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|solutionrelative:trainingtask.models\\entity\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\employee\\employeesave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\employee\\employeesave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Migrations\\20241031050845_addingDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Training.DataAccess\\Migrations\\20241031050845_addingDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask.models\\entity\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|solutionrelative:trainingtask.models\\entity\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask.models\\dto\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|solutionrelative:trainingtask.models\\dto\\companydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask.models\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|solutionrelative:trainingtask.models\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Migrations\\20241029093354_addingShiftDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Training.DataAccess\\Migrations\\20241029093354_addingShiftDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\company\\companysave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\company\\companysave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Migrations\\20241029060345_updateCalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Training.DataAccess\\Migrations\\20241029060345_updateCalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\interface\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\interface\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\interface\\idesignationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\interface\\idesignationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask.models\\dto\\deptlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|solutionrelative:trainingtask.models\\dto\\deptlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask.models\\dto\\desigdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|solutionrelative:trainingtask.models\\dto\\desigdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\implement\\companyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\implement\\companyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask.models\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -163,16 +87,108 @@
       "RelativeMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|solutionrelative:trainingtask.models\\entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask.models\\entity\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|solutionrelative:trainingtask.models\\entity\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask.models\\dto\\desigdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|solutionrelative:trainingtask.models\\dto\\desigdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\interface\\icompanyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\interface\\icompanyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask.models\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|solutionrelative:trainingtask.models\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask.models\\dto\\deptlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|solutionrelative:trainingtask.models\\dto\\deptlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\employee\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\employee\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\employee\\employeesave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\employee\\employeesave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\company\\companysave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\company\\companysave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\interface\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\interface\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\interface\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\interface\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\implement\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\implement\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Migrations\\20241031035324_ShiftTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Training.DataAccess\\Migrations\\20241031035324_ShiftTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\shift\\privacyy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\shift\\privacyy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\designation\\designationsave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\designation\\designationsave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\designation\\desigdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\designation\\desigdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Migrations\\20241029035534_addingDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Training.DataAccess\\Migrations\\20241029035534_addingDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\implement\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\implement\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\interface\\idesignationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\interface\\idesignationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|c:\\users\\one\\downloads\\trainingtask\\training.dataaccess\\repositories\\implement\\designationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{344D452A-FEB3-4E8F-815A-9BCC7E175AE9}|Training.DataAccess\\Training.DataAccess.csproj|solutionrelative:training.dataaccess\\repositories\\implement\\designationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\trainingtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -180,10 +196,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D982CBB-E5D8-4655-BBAC-222CB3443959}|Trainingtask.Models\\Trainingtask.Models.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask.models\\trainingtask.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -200,10 +212,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|c:\\users\\one\\downloads\\trainingtask\\trainingtask\\views\\designation\\designationsave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC1C9D23-CDCF-4D46-A5D4-167768826143}|TrainingTask\\TrainingTask.csproj|solutionrelative:trainingtask\\views\\designation\\designationsave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -213,7 +221,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -227,7 +235,7 @@
               "RelativeDocumentMoniker": "Training.DataAccess\\TrainingDbContext.cs",
               "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\TrainingDbContext.cs",
               "RelativeToolTip": "Training.DataAccess\\TrainingDbContext.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAxwEQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwHoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T03:47:01.676Z",
               "EditorCaption": ""
@@ -235,90 +243,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ShiftController.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Controllers\\ShiftController.cs",
-              "RelativeDocumentMoniker": "TrainingTask\\Controllers\\ShiftController.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Controllers\\ShiftController.cs",
-              "RelativeToolTip": "TrainingTask\\Controllers\\ShiftController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T08:16:56.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Shift\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "TrainingTask\\Views\\Shift\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Shift\\Privacy.cshtml",
-              "RelativeToolTip": "TrainingTask\\Views\\Shift\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T10:20:36.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ShiftSave.cshtml",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Shift\\ShiftSave.cshtml",
-              "RelativeDocumentMoniker": "TrainingTask\\Views\\Shift\\ShiftSave.cshtml",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Shift\\ShiftSave.cshtml",
-              "RelativeToolTip": "TrainingTask\\Views\\Shift\\ShiftSave.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T08:27:58.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShiftDTO.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\DTO\\ShiftDTO.cs",
-              "RelativeDocumentMoniker": "Trainingtask.Models\\DTO\\ShiftDTO.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\DTO\\ShiftDTO.cs",
-              "RelativeToolTip": "Trainingtask.Models\\DTO\\ShiftDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T08:14:56.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Shift.cs",
               "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\Entity\\Shift.cs",
               "RelativeDocumentMoniker": "Trainingtask.Models\\Entity\\Shift.cs",
               "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\Entity\\Shift.cs",
               "RelativeToolTip": "Trainingtask.Models\\Entity\\Shift.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T04:39:59.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "ShiftDTO.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\DTO\\ShiftDTO.cs",
+              "RelativeDocumentMoniker": "Trainingtask.Models\\DTO\\ShiftDTO.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\DTO\\ShiftDTO.cs",
+              "RelativeToolTip": "Trainingtask.Models\\DTO\\ShiftDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:14:56.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShiftRepo.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\ShiftRepo.cs",
+              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Implement\\ShiftRepo.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\ShiftRepo.cs",
+              "RelativeToolTip": "Training.DataAccess\\Repositories\\Implement\\ShiftRepo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:20:57.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShiftController.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Controllers\\ShiftController.cs",
+              "RelativeDocumentMoniker": "TrainingTask\\Controllers\\ShiftController.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Controllers\\ShiftController.cs",
+              "RelativeToolTip": "TrainingTask\\Controllers\\ShiftController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADgvzoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:16:56.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\UnitOfWork.cs",
               "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\UnitOfWork.cs",
               "RelativeToolTip": "Training.DataAccess\\Repositories\\UnitOfWork.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAIwBkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T04:55:53.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "IShiftRepo.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\IShiftRepo.cs",
+              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Interface\\IShiftRepo.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\IShiftRepo.cs",
+              "RelativeToolTip": "Training.DataAccess\\Repositories\\Interface\\IShiftRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:19:13.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Repository.cs",
               "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Repository.cs",
               "RelativeToolTip": "Training.DataAccess\\Repositories\\Repository.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T08:22:54.219Z",
               "EditorCaption": ""
@@ -326,14 +334,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\IUnitOfWork.cs",
-              "RelativeToolTip": "Training.DataAccess\\Repositories\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\IBaseRepository.cs",
+              "RelativeToolTip": "Training.DataAccess\\Repositories\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:55:22.342Z",
+              "WhenOpened": "2024-10-29T04:34:39.501Z",
               "EditorCaption": ""
             },
             {
@@ -352,214 +360,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\IBaseRepository.cs",
-              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\IBaseRepository.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\IBaseRepository.cs",
-              "RelativeToolTip": "Training.DataAccess\\Repositories\\IBaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "Training.DataAccess\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:34:39.501Z",
+              "WhenOpened": "2024-10-29T04:55:22.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "IShiftRepo.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\IShiftRepo.cs",
-              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Interface\\IShiftRepo.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\IShiftRepo.cs",
-              "RelativeToolTip": "Training.DataAccess\\Repositories\\Interface\\IShiftRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T08:19:13.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ShiftRepo.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\ShiftRepo.cs",
-              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Implement\\ShiftRepo.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\ShiftRepo.cs",
-              "RelativeToolTip": "Training.DataAccess\\Repositories\\Implement\\ShiftRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T08:20:57.332Z",
+              "Title": "ShiftSave.cshtml",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Shift\\ShiftSave.cshtml",
+              "RelativeDocumentMoniker": "TrainingTask\\Views\\Shift\\ShiftSave.cshtml",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Shift\\ShiftSave.cshtml",
+              "RelativeToolTip": "TrainingTask\\Views\\Shift\\ShiftSave.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAEwCwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T08:27:58.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "IEmployeeRepo.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\IEmployeeRepo.cs",
-              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Interface\\IEmployeeRepo.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\IEmployeeRepo.cs",
-              "RelativeToolTip": "Training.DataAccess\\Repositories\\Interface\\IEmployeeRepo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:34:50.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CompanyRepo.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\CompanyRepo.cs",
-              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Implement\\CompanyRepo.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\CompanyRepo.cs",
-              "RelativeToolTip": "Training.DataAccess\\Repositories\\Implement\\CompanyRepo.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwB8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:53:15.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DepartmentRepo.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\DepartmentRepo.cs",
-              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Implement\\DepartmentRepo.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\DepartmentRepo.cs",
-              "RelativeToolTip": "Training.DataAccess\\Repositories\\Implement\\DepartmentRepo.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:35:14.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DesignationRepo.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\DesignationRepo.cs",
-              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Implement\\DesignationRepo.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\DesignationRepo.cs",
-              "RelativeToolTip": "Training.DataAccess\\Repositories\\Implement\\DesignationRepo.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:35:12.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EmployeeRepo.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\EmployeeRepo.cs",
-              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Implement\\EmployeeRepo.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\EmployeeRepo.cs",
-              "RelativeToolTip": "Training.DataAccess\\Repositories\\Implement\\EmployeeRepo.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAYwCIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T03:49:36.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ICompanyRepo.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\ICompanyRepo.cs",
-              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Interface\\ICompanyRepo.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\ICompanyRepo.cs",
-              "RelativeToolTip": "Training.DataAccess\\Repositories\\Interface\\ICompanyRepo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:50:36.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "TrainingTask\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "TrainingTask\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAuwIQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T09:08:11.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TrainingTask\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TrainingTask\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAowC0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T09:06:09.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "EmployeeDTO.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\DTO\\EmployeeDTO.cs",
-              "RelativeDocumentMoniker": "Trainingtask.Models\\DTO\\EmployeeDTO.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\DTO\\EmployeeDTO.cs",
-              "RelativeToolTip": "Trainingtask.Models\\DTO\\EmployeeDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T09:57:01.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Employee\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "TrainingTask\\Views\\Employee\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Employee\\Privacy.cshtml",
-              "RelativeToolTip": "TrainingTask\\Views\\Employee\\Privacy.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwFEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T06:19:00.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Company.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\Entity\\Company.cs",
-              "RelativeDocumentMoniker": "Trainingtask.Models\\Entity\\Company.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\Entity\\Company.cs",
-              "RelativeToolTip": "Trainingtask.Models\\Entity\\Company.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:41:44.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "EmployeeSave.cshtml",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Employee\\EmployeeSave.cshtml",
-              "RelativeDocumentMoniker": "TrainingTask\\Views\\Employee\\EmployeeSave.cshtml",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Employee\\EmployeeSave.cshtml",
-              "RelativeToolTip": "TrainingTask\\Views\\Employee\\EmployeeSave.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwC0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T06:18:49.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Program.cs",
-              "RelativeDocumentMoniker": "TrainingTask\\Program.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Program.cs",
-              "RelativeToolTip": "TrainingTask\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T03:33:57.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
               "Title": "CompanyDTO.cs",
               "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\DTO\\CompanyDTO.cs",
               "RelativeDocumentMoniker": "Trainingtask.Models\\DTO\\CompanyDTO.cs",
@@ -572,163 +398,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\Entity\\Employee.cs",
-              "RelativeDocumentMoniker": "Trainingtask.Models\\Entity\\Employee.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\Entity\\Employee.cs",
-              "RelativeToolTip": "Trainingtask.Models\\Entity\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T10:45:12.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "20241029093354_addingShiftDB.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Migrations\\20241029093354_addingShiftDB.cs",
-              "RelativeDocumentMoniker": "Training.DataAccess\\Migrations\\20241029093354_addingShiftDB.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Migrations\\20241029093354_addingShiftDB.cs",
-              "RelativeToolTip": "Training.DataAccess\\Migrations\\20241029093354_addingShiftDB.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T09:33:55.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CompanySave.cshtml",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Company\\CompanySave.cshtml",
-              "RelativeDocumentMoniker": "TrainingTask\\Views\\Company\\CompanySave.cshtml",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Company\\CompanySave.cshtml",
-              "RelativeToolTip": "TrainingTask\\Views\\Company\\CompanySave.cshtml",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDkAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T05:08:27.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Company\\Index.cshtml",
-              "RelativeDocumentMoniker": "TrainingTask\\Views\\Company\\Index.cshtml",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Company\\Index.cshtml",
-              "RelativeToolTip": "TrainingTask\\Views\\Company\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T05:49:09.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "TrainingTask\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "TrainingTask\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T05:16:31.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "TrainingTask\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "TrainingTask\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T05:16:34.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "20241029060345_updateCalculation.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Migrations\\20241029060345_updateCalculation.cs",
-              "RelativeDocumentMoniker": "Training.DataAccess\\Migrations\\20241029060345_updateCalculation.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Migrations\\20241029060345_updateCalculation.cs",
-              "RelativeToolTip": "Training.DataAccess\\Migrations\\20241029060345_updateCalculation.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T06:03:45.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "IdepartmentRepo.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\IdepartmentRepo.cs",
-              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Interface\\IdepartmentRepo.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\IdepartmentRepo.cs",
-              "RelativeToolTip": "Training.DataAccess\\Repositories\\Interface\\IdepartmentRepo.cs",
+              "DocumentIndex": 12,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\DTO\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "Trainingtask.Models\\DTO\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\DTO\\EmployeeDTO.cs",
+              "RelativeToolTip": "Trainingtask.Models\\DTO\\EmployeeDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:34:55.381Z",
+              "WhenOpened": "2024-10-31T05:17:10.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "IDesignationRepo.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\IDesignationRepo.cs",
-              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Interface\\IDesignationRepo.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\IDesignationRepo.cs",
-              "RelativeToolTip": "Training.DataAccess\\Repositories\\Interface\\IDesignationRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\Entity\\Company.cs",
+              "RelativeDocumentMoniker": "Trainingtask.Models\\Entity\\Company.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\Entity\\Company.cs",
+              "RelativeToolTip": "Trainingtask.Models\\Entity\\Company.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:34:53.569Z",
+              "WhenOpened": "2024-10-29T04:41:44.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "DeptListDTO.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\DTO\\DeptListDTO.cs",
-              "RelativeDocumentMoniker": "Trainingtask.Models\\DTO\\DeptListDTO.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\DTO\\DeptListDTO.cs",
-              "RelativeToolTip": "Trainingtask.Models\\DTO\\DeptListDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "20241031050845_addingDB.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Migrations\\20241031050845_addingDB.cs",
+              "RelativeDocumentMoniker": "Training.DataAccess\\Migrations\\20241031050845_addingDB.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Migrations\\20241031050845_addingDB.cs",
+              "RelativeToolTip": "Training.DataAccess\\Migrations\\20241031050845_addingDB.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:42:06.554Z",
+              "WhenOpened": "2024-10-31T05:08:45.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "DesigDTO.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\DTO\\DesigDTO.cs",
-              "RelativeDocumentMoniker": "Trainingtask.Models\\DTO\\DesigDTO.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\DTO\\DesigDTO.cs",
-              "RelativeToolTip": "Trainingtask.Models\\DTO\\DesigDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:42:04.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 16,
               "Title": "Designation.cs",
               "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\Entity\\Designation.cs",
               "RelativeDocumentMoniker": "Trainingtask.Models\\Entity\\Designation.cs",
               "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\Entity\\Designation.cs",
               "RelativeToolTip": "Trainingtask.Models\\Entity\\Designation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T04:36:26.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 17,
+              "Title": "DesignationController.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Controllers\\DesignationController.cs",
+              "RelativeDocumentMoniker": "TrainingTask\\Controllers\\DesignationController.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Controllers\\DesignationController.cs",
+              "RelativeToolTip": "TrainingTask\\Controllers\\DesignationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:32:51.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CompanyRepo.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\CompanyRepo.cs",
+              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Implement\\CompanyRepo.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\CompanyRepo.cs",
+              "RelativeToolTip": "Training.DataAccess\\Repositories\\Implement\\CompanyRepo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:53:15.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\Entity\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Trainingtask.Models\\Entity\\BaseEntity.cs",
@@ -741,137 +489,215 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 20,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\Entity\\Department.cs",
               "RelativeDocumentMoniker": "Trainingtask.Models\\Entity\\Department.cs",
               "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\Entity\\Department.cs",
               "RelativeToolTip": "Trainingtask.Models\\Entity\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T10:04:27.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Trainingtask.Models.csproj",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\Trainingtask.Models.csproj",
-              "RelativeDocumentMoniker": "Trainingtask.Models\\Trainingtask.Models.csproj",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\Trainingtask.Models.csproj",
-              "RelativeToolTip": "Trainingtask.Models\\Trainingtask.Models.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-29T03:36:12.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "TrainingTask.csproj",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\TrainingTask.csproj",
-              "RelativeDocumentMoniker": "TrainingTask\\TrainingTask.csproj",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\TrainingTask.csproj",
-              "RelativeToolTip": "TrainingTask\\TrainingTask.csproj",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-28T10:21:01.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "DesigData.cshtml",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Designation\\DesigData.cshtml",
-              "RelativeDocumentMoniker": "TrainingTask\\Views\\Designation\\DesigData.cshtml",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Designation\\DesigData.cshtml",
-              "RelativeToolTip": "TrainingTask\\Views\\Designation\\DesigData.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T08:52:16.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "20241029035534_addingDB.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Migrations\\20241029035534_addingDB.cs",
-              "RelativeDocumentMoniker": "Training.DataAccess\\Migrations\\20241029035534_addingDB.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Migrations\\20241029035534_addingDB.cs",
-              "RelativeToolTip": "Training.DataAccess\\Migrations\\20241029035534_addingDB.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "DesigDTO.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\DTO\\DesigDTO.cs",
+              "RelativeDocumentMoniker": "Trainingtask.Models\\DTO\\DesigDTO.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\DTO\\DesigDTO.cs",
+              "RelativeToolTip": "Trainingtask.Models\\DTO\\DesigDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T03:55:34.773Z",
+              "WhenOpened": "2024-10-29T04:42:04.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAGQHAAAAAAAAAAAYwGEHAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-10-29T03:48:52.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Training.DataAccess.csproj",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Training.DataAccess.csproj",
-              "RelativeDocumentMoniker": "Training.DataAccess\\Training.DataAccess.csproj",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Training.DataAccess.csproj",
-              "RelativeToolTip": "Training.DataAccess\\Training.DataAccess.csproj",
-              "ViewState": "AgIAABUAAAAAAAAAAAAkwBgAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-28T10:20:49.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "DesignationController.cs",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Controllers\\DesignationController.cs",
-              "RelativeDocumentMoniker": "TrainingTask\\Controllers\\DesignationController.cs",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Controllers\\DesignationController.cs",
-              "RelativeToolTip": "TrainingTask\\Controllers\\DesignationController.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "ICompanyRepo.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\ICompanyRepo.cs",
+              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Interface\\ICompanyRepo.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\ICompanyRepo.cs",
+              "RelativeToolTip": "Training.DataAccess\\Repositories\\Interface\\ICompanyRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T09:32:51.839Z",
+              "WhenOpened": "2024-10-29T04:50:36.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "DepartmentSave.cshtml",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Home\\DepartmentSave.cshtml",
-              "RelativeDocumentMoniker": "TrainingTask\\Views\\Home\\DepartmentSave.cshtml",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Home\\DepartmentSave.cshtml",
-              "RelativeToolTip": "TrainingTask\\Views\\Home\\DepartmentSave.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "Trainingtask.Models\\Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\Entity\\Employee.cs",
+              "RelativeToolTip": "Trainingtask.Models\\Entity\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:45:12.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DeptListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\DTO\\DeptListDTO.cs",
+              "RelativeDocumentMoniker": "Trainingtask.Models\\DTO\\DeptListDTO.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\DTO\\DeptListDTO.cs",
+              "RelativeToolTip": "Trainingtask.Models\\DTO\\DeptListDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:42:06.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Employee\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "TrainingTask\\Views\\Employee\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Employee\\Privacy.cshtml",
+              "RelativeToolTip": "TrainingTask\\Views\\Employee\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T09:22:43.929Z",
+              "WhenOpened": "2024-10-27T06:19:00.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 26,
+              "Title": "EmployeeSave.cshtml",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Employee\\EmployeeSave.cshtml",
+              "RelativeDocumentMoniker": "TrainingTask\\Views\\Employee\\EmployeeSave.cshtml",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Employee\\EmployeeSave.cshtml",
+              "RelativeToolTip": "TrainingTask\\Views\\Employee\\EmployeeSave.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T06:18:49.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TrainingTask\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "TrainingTask\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAIBpwDgAAAAHAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Company\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrainingTask\\Views\\Company\\Index.cshtml",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Company\\Index.cshtml",
+              "RelativeToolTip": "TrainingTask\\Views\\Company\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T08:58:46.082Z",
+              "WhenOpened": "2024-10-29T05:49:09.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 28,
+              "Title": "CompanySave.cshtml",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Company\\CompanySave.cshtml",
+              "RelativeDocumentMoniker": "TrainingTask\\Views\\Company\\CompanySave.cshtml",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Company\\CompanySave.cshtml",
+              "RelativeToolTip": "TrainingTask\\Views\\Company\\CompanySave.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T05:08:27.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "TrainingTask\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "TrainingTask\\Controllers\\CompanyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T03:54:55.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IEmployeeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\IEmployeeRepo.cs",
+              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Interface\\IEmployeeRepo.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\IEmployeeRepo.cs",
+              "RelativeToolTip": "Training.DataAccess\\Repositories\\Interface\\IEmployeeRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:34:50.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IdepartmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\IdepartmentRepo.cs",
+              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Interface\\IdepartmentRepo.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\IdepartmentRepo.cs",
+              "RelativeToolTip": "Training.DataAccess\\Repositories\\Interface\\IdepartmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:34:55.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Implement\\EmployeeRepo.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\EmployeeRepo.cs",
+              "RelativeToolTip": "Training.DataAccess\\Repositories\\Implement\\EmployeeRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T03:49:36.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241031035324_ShiftTable.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Migrations\\20241031035324_ShiftTable.cs",
+              "RelativeDocumentMoniker": "Training.DataAccess\\Migrations\\20241031035324_ShiftTable.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Migrations\\20241031035324_ShiftTable.cs",
+              "RelativeToolTip": "Training.DataAccess\\Migrations\\20241031035324_ShiftTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:53:24.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "TrainingTask\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "TrainingTask\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwD4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:17:39.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Privacyy.cshtml",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Shift\\Privacyy.cshtml",
+              "RelativeDocumentMoniker": "TrainingTask\\Views\\Shift\\Privacyy.cshtml",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Shift\\Privacyy.cshtml",
+              "RelativeToolTip": "TrainingTask\\Views\\Shift\\Privacyy.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwEQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T10:20:36.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "DesignationSave.cshtml",
               "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Designation\\DesignationSave.cshtml",
               "RelativeDocumentMoniker": "TrainingTask\\Views\\Designation\\DesignationSave.cshtml",
@@ -881,6 +707,202 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-27T08:51:53.259Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DesigData.cshtml",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Designation\\DesigData.cshtml",
+              "RelativeDocumentMoniker": "TrainingTask\\Views\\Designation\\DesigData.cshtml",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Designation\\DesigData.cshtml",
+              "RelativeToolTip": "TrainingTask\\Views\\Designation\\DesigData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T08:52:16.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Program.cs",
+              "RelativeDocumentMoniker": "TrainingTask\\Program.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Program.cs",
+              "RelativeToolTip": "TrainingTask\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T03:33:57.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DepartmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\DepartmentRepo.cs",
+              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Implement\\DepartmentRepo.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\DepartmentRepo.cs",
+              "RelativeToolTip": "Training.DataAccess\\Repositories\\Implement\\DepartmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:35:14.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TrainingTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TrainingTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAACoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:06:09.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IDesignationRepo.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\IDesignationRepo.cs",
+              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Interface\\IDesignationRepo.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Interface\\IDesignationRepo.cs",
+              "RelativeToolTip": "Training.DataAccess\\Repositories\\Interface\\IDesignationRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:34:53.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TrainingTask\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TrainingTask\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T05:16:31.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TrainingTask\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TrainingTask\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T05:16:34.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\appsettings.json",
+              "RelativeDocumentMoniker": "TrainingTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\appsettings.json",
+              "RelativeToolTip": "TrainingTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T06:23:43.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TrainingTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TrainingTask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:47:06.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DesignationRepo.cs",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\DesignationRepo.cs",
+              "RelativeDocumentMoniker": "Training.DataAccess\\Repositories\\Implement\\DesignationRepo.cs",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Repositories\\Implement\\DesignationRepo.cs",
+              "RelativeToolTip": "Training.DataAccess\\Repositories\\Implement\\DesignationRepo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:35:12.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Trainingtask.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\Trainingtask.Models.csproj",
+              "RelativeDocumentMoniker": "Trainingtask.Models\\Trainingtask.Models.csproj",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Trainingtask.Models\\Trainingtask.Models.csproj",
+              "RelativeToolTip": "Trainingtask.Models\\Trainingtask.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-29T03:36:12.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TrainingTask.csproj",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\TrainingTask.csproj",
+              "RelativeDocumentMoniker": "TrainingTask\\TrainingTask.csproj",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\TrainingTask.csproj",
+              "RelativeToolTip": "TrainingTask\\TrainingTask.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T10:21:01.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAGQHAAAAAAAAAAAYwGEHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-29T03:48:52.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Training.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Training.DataAccess.csproj",
+              "RelativeDocumentMoniker": "Training.DataAccess\\Training.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\Training.DataAccess\\Training.DataAccess.csproj",
+              "RelativeToolTip": "Training.DataAccess\\Training.DataAccess.csproj",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwBgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T10:20:49.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DepartmentSave.cshtml",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Home\\DepartmentSave.cshtml",
+              "RelativeDocumentMoniker": "TrainingTask\\Views\\Home\\DepartmentSave.cshtml",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Home\\DepartmentSave.cshtml",
+              "RelativeToolTip": "TrainingTask\\Views\\Home\\DepartmentSave.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:22:43.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrainingTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\one\\Downloads\\TrainingTask\\TrainingTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TrainingTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBpwDgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T08:58:46.082Z"
             }
           ]
         }

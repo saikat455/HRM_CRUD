@@ -15,6 +15,7 @@ namespace Training.DataAccess.Repositories
         public IdepartmentRepo DepartmentRepo { get; private set; }
         public IDesignationRepo DesignationRepo { get; private set; }
         public IEmployeeRepo EmployeeRepo { get; private set; }
+        public IShiftRepo ShiftRepo { get; private set; }
        
 
         public UnitOfWork(TrainingDbContext db)
@@ -23,7 +24,12 @@ namespace Training.DataAccess.Repositories
             DesignationRepo = new DesignationRepo(db);
             EmployeeRepo = new EmployeeRepo(db);
             CompanyRepo = new CompanyRepo(db);
-         
+            ShiftRepo = new ShiftRepo(db);
+        }
+
+        public Task CompleteAsync()
+        {
+            throw new NotImplementedException();
         }
     }
 }
